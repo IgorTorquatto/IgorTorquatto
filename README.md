@@ -30,8 +30,6 @@
 
 ### Tenho bastante interesse em:
 
-<img  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-
 <img  src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 
 Atualmente sou estudante de Ciência da Computação na Universidade Federal do Cariri.
