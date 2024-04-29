@@ -15,7 +15,7 @@ Desenvolvi habilidades sólidas em front-end durante minha bolsa, aplicando conh
 
 ### Linguagens mais utilizadas:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igortorquatto&hide=jupyter%20notebook)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igortorquatto&hide=jupyter%20notebook,HTML,CSS)]
 
 ### Conecte-se comigo:
 
